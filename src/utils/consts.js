@@ -12,7 +12,7 @@ export const jsProj = [
         src: "/assets/calc.jpg",
         title: "Calculator",
         href: "https://github.com/Jusety/calculator",
-        width: "300px",
+        width: "11.94vw",
         text: "Простой калькулятор.",
     },
     {
@@ -20,7 +20,7 @@ export const jsProj = [
         src: "/assets/api.jpg",
         title: "Unsplash API",
         href: "https://github.com/Jusety/unsplash-API",
-        width: "300px",
+        width: "11.6vw",
         text: "Работа с API, fetch.",
     },
     {
@@ -28,7 +28,7 @@ export const jsProj = [
         src: "/assets/calendar.jpg",
         title: "Calendar",
         href: "https://github.com/Jusety/calendar",
-        width: "300px",
+        width: "11.5vw",
         text: "Простой календарь.",
     },
     {
@@ -36,7 +36,7 @@ export const jsProj = [
         src: "/assets/cards.jpg",
         title: "Learning Cards",
         href: "https://github.com/Jusety/flashcard",
-        width: "340px",
+        width: "17.5vw",
         text: "Карточки для обучения с ответами.",
     },
     {
@@ -44,7 +44,7 @@ export const jsProj = [
         src: "/assets/info.jpg",
         title: "Information list",
         href: "https://github.com/Jusety/info-spa-with-anim",
-        width: "360px",
+        width: "18vw",
         text: "Single Page Application с анимациями.",
     },
     {
@@ -52,7 +52,7 @@ export const jsProj = [
         src: "/assets/math4kids.jpg",
         title: "Math for kids",
         href: "https://github.com/Jusety/math-4-kids",
-        width: "750px",
+        width: "37.5vw",
         text: "Мат. примеры для детей. Со звуками, рандомные примеры, расчитанные на детей.",
     },
     {
@@ -60,7 +60,7 @@ export const jsProj = [
         src: "/assets/timer.jpg",
         title: "Timer",
         href: "https://github.com/Jusety/timer",
-        width: "350px",
+        width: "17.6vw",
         text: "Простой таймер со сбросом времени.",
     },
     {
@@ -68,7 +68,7 @@ export const jsProj = [
         src: "/assets/tip-calc.jpg",
         title: "Tip Calculator",
         href: "https://github.com/Jusety/tip",
-        width: "690px",
+        width: "34vw",
         text: "Калькулятор чаевых, можно выставить качество сервиса, и кол-во людей.",
     },
 ];
@@ -79,7 +79,7 @@ export const reactProj = [
         src: "/assets/blog.jpg",
         title: "Blog",
         href: "https://github.com/Jusety/blog",
-        width: "1100px",
+        width: "50vw",
         text: "Мой первый большой проект на реакт. Использовал множество разных технологий от контекста до реакт роутер дом.",
     },
     {
@@ -87,7 +87,7 @@ export const reactProj = [
         src: "/assets/todol-v1.jpg",
         title: "To do list",
         href: "https://github.com/Jusety/my-very-first-to-do-list",
-        width: "480px",
+        width: "22.5vw",
         text: "Мой первый мини проект на реакт. Работа с стейтом.",
     },
     {
@@ -95,7 +95,7 @@ export const reactProj = [
         src: "/assets/calendar.jpg",
         title: "Calendar",
         href: "https://github.com/Jusety/calendar",
-        width: "290px",
+        width: "11vw",
         text: "Простой календарь.",
     },
     {
@@ -103,7 +103,7 @@ export const reactProj = [
         src: "/assets/todol-v2.jpg",
         title: "To do list v2.0",
         href: "https://github.com/Jusety/to-do-list",
-        width: "650px",
+        width: "29vw",
         text: "Улучшенный лист с оформлением и более обширным функционалом.",
     },
     {
@@ -111,7 +111,7 @@ export const reactProj = [
         src: "/assets/grocery-list.jpg",
         title: "Grocery list",
         href: "https://github.com/Jusety/grocery-list",
-        width: "420px",
+        width: "19vw",
         text: "Лист, оформленный под корзину для покупок.",
     },
     {
@@ -119,7 +119,7 @@ export const reactProj = [
         src: "/assets/work-with-rtkQ.jpg",
         title: "RTK Query",
         href: "https://github.com/Jusety/blog-redux-ts-with-rtk-query",
-        width: "390px",
+        width: "18.7vw",
         text: "Учился работать с RTK Query на TypeScript",
     },
     {
@@ -127,7 +127,7 @@ export const reactProj = [
         src: "/assets/meet.jpg",
         title: "Meeting Calendar",
         href: "https://github.com/Jusety/meeting-calendar",
-        width: "1050px",
+        width: "46.8vw",
         text: "Каленьдарь для встреч, можно создавать встречи, смотреть какие будут, система регистраций, сделано на Typescript.",
     },
     {
@@ -135,7 +135,7 @@ export const reactProj = [
         src: "/assets/store.jpg",
         title: "Online Store",
         href: "https://github.com/Jusety/my-online-store",
-        width: "1250px",
+        width: "59vw",
         text: "Онлайн магазин с ааторизацией, корзиной и с админ-панелью. Oтдельная страница для каждого девайса с помощью реакт роутер дома, antd, TS.",
     },
 ];

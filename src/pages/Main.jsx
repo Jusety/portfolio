@@ -9,10 +9,10 @@ const Main = () => {
                 id="photo"
                 height="calc(100vh - 64px)"
             />
-            <div style={{ marginTop: 250, marginRight: 80 }}>
+            <div style={{ marginTop: "30vh", marginRight: "10vh" }}>
                 <div>
-                    <h3 style={{ fontSize: 200 }}>Sevastyan Venediktov</h3>
-                    <p style={{ fontSize: 120, marginTop: 200 }}>
+                    <h3 style={{ fontSize: "13vh" }}>Sevastyan Venediktov</h3>
+                    <p style={{ fontSize: "7vh", marginTop: "5vh" }}>
                         Frontend developer from Voronezh
                     </p>
                 </div>

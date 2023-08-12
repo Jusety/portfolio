@@ -3,37 +3,40 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Times New Roman", Times, serif;
-    font-size: 20px;
+    font-size: 1.5vh;
 }
 
 #nav-btn {
     opacity: 80%;
     background-color: #00315e;
     color: whitesmoke;
-    margin-top: 13px;
-    margin-right: 10px;
+    margin-top: 1.2vh;
+    margin-right: 1vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #base {
     background-color: #99adff;
     color: whitesmoke;
     height: calc(100vh - 64px);
-    font-size: 24px;
+    font-size: 1.75vh;
 }
 
 .icons {
-    font-size: 50px;
+    font-size: 5vh;
 }
 
 .icons i {
-    margin: 15px;
-    font-size: 100px;
+    margin: 3vh;
+    font-size: 10vh;
 }
 
 .proj {
-    font-size: 200px;
-    margin-top: 50px;
-    margin: 320px;
+    font-size: 15vh;
+    margin: 23vh;
+    margin-top: 32vh;
     cursor: pointer;
 }
 
@@ -41,20 +44,15 @@
     color: wheat;
 }
 
-span {
-    font-size: 16px;
-    margin-left: 20px;
-}
-
 .single {
-    border: 3px solid lightgoldenrodyellow;
-    border-radius: 10px;
-    height: 200px;
-    width: 600px;
-    padding: 20px;
+    border: 0.4vh solid lightgoldenrodyellow;
+    border-radius: 1vh;
+    height: 17vh;
+    width: 23vw;
+    padding: 2vh;
     display: flex;
-    margin-left: 180px;
-    margin-top: 50px;
+    margin-left: 15vh;
+    margin-top: 7vh;
 }
 
 .grid {
