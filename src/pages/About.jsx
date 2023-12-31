@@ -17,7 +17,7 @@ const About = () => {
                     a healthy lifestyle and doesn't like to write in 3rd person.
                     He is purposeful, ambitious, good in communication and
                     thinks that the most important thing in team is chatting
-                    skills, so they can share their problems and solve theme
+                    skills, so they can share their problems and solve them
                     together.
                 </p>
                 <h1 style={{ marginTop: "5vh", fontSize: "10vh" }}>Contact</h1>
