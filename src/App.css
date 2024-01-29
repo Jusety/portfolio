@@ -16,6 +16,9 @@
     justify-content: center;
     align-items: center;
 }
+body {
+    background-color: #99adff;
+}
 
 #base {
     background-color: #99adff;

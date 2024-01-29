@@ -5,14 +5,19 @@ const Main = () => {
     return (
         <Row justify="center">
             <Image
-                src="/assets/my/I-hpQqE8SF4.jpg"
+                src="/assets/my/pfp.jpg"
                 id="photo"
                 height="calc(100vh - 64px)"
             />
-            <div style={{ marginTop: "30vh", marginRight: "10vh" }}>
+            <div style={{ marginTop: "30vh", marginRight: "6vh" }}>
                 <div>
                     <h3 style={{ fontSize: "13vh" }}>Sevastyan Venediktov</h3>
-                    <p style={{ fontSize: "7vh", marginTop: "5vh" }}>
+                    <p
+                        style={{
+                            fontSize: "7vh",
+                            marginTop: "5vh",
+                        }}
+                    >
                         Frontend developer from Voronezh
                     </p>
                 </div>

@@ -148,10 +148,10 @@ export const reactProj = [
     },
     {
         id: 10,
-        src: "/assets/subTodo.jpg",
+        src: "/assets/schedule.jpg",
         title: "Schedule",
         href: "https://github.com/Jusety/schedule",
-        width: "37vw",
-        text: "Мини-проект. Расписание для моей группы в колледже, которое меняется по неделям(чет/нечет).",
+        width: "38vw",
+        text: "Мини-проект. Расписание для моей группы в колледже, которое меняется по неделям(чёт/нечёт).",
     },
 ];
