@@ -138,4 +138,20 @@ export const reactProj = [
         width: "59vw",
         text: "Онлайн магазин с ааторизацией, корзиной и с админ-панелью. Oтдельная страница для каждого девайса с помощью реакт роутер дома, antd, TS.",
     },
+    {
+        id: 9,
+        src: "/assets/subTodo.jpg",
+        title: "Sub Todo",
+        href: "https://github.com/Jusety/todo-sub",
+        width: "37vw",
+        text: "Мне хотелось сделать todo list с подзадачами. Не видел ни у кого ничего похожего.",
+    },
+    {
+        id: 10,
+        src: "/assets/subTodo.jpg",
+        title: "Schedule",
+        href: "https://github.com/Jusety/schedule",
+        width: "37vw",
+        text: "Мини-проект. Расписание для моей группы в колледже, которое меняется по неделям(чет/нечет).",
+    },
 ];
