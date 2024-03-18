@@ -17,11 +17,11 @@
     align-items: center;
 }
 body {
-    background-color: #99adff;
+    background-color: #b2b2b2;
 }
 
 #base {
-    background-color: #99adff;
+    background-color: #b2b2b2;
     color: whitesmoke;
     height: calc(100vh - 64px);
     font-size: 1.75vh;
